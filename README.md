@@ -29,3 +29,11 @@ This project provides an easy way for customers to rent and return cars, while t
 ---
 
 ## 📂 Project Structure
+CarRentalSystem/
+│── src/
+│ ├── Car.java
+│ ├── Customer.java
+│ ├── Rental.java
+│ ├── Payment.java
+│ └── Main.java
+│── README.md
